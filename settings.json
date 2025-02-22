@@ -1,0 +1,24 @@
+{
+    "botName": "ShopBot",
+    "currency": "$",
+    "defaultImage": "./assets/default.jpg",
+    "cartImage": "https://chocchip.com.au/wp-content/uploads/2016/01/shutterstock_232938901-1030x1030.jpg",
+    "checkoutImage": "https://thumbs.dreamstime.com/b/online-shop-vector-website-landing-page-design-template-web-mobile-site-development-internet-shopping-store-women-e-144570518.jpg",
+    "paymentMethod": "Credit Card/PayPal",
+    "messages": {
+      "welcome": "Welcome to ShopBot! Browse our collection of products.",
+      "cartEmpty": "Your cart is currently empty. Browse our categories to add items.",
+      "orderConfirmation": "Thank you for your order! Your payment has been processed successfully.",
+      "returnPrompt": "Welcome back! Would you like to continue where you left off?",
+      "outOfStock": "Sorry, this item is currently out of stock. Please check back later.",
+      "errorMessage": "An error occurred. Please try again or contact support."
+    },
+    "sessionTimeout": 3600000,
+    "maxCartItems": 10,
+    "taxRate": 0.075,
+    "shippingFee": 5.99,
+    "freeShippingThreshold": 50.00,
+    "supportContact": "+1234567890",
+    "businessHours": "Monday-Friday: 9AM-5PM",
+    "returnsPolicy": "30-day money-back guarantee on all products."
+  }

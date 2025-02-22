@@ -1,0 +1,156 @@
+{
+    "featuredImage": "https://thumbs.dreamstime.com/b/online-shop-vector-website-landing-page-design-template-web-mobile-site-development-internet-shopping-store-women-e-144570518.jpg",
+    "categories": [
+      {
+        "id": "clothing",
+        "name": "Clothing",
+        "image": "https://images.pexels.com/photos/3768005/pexels-photo-3768005.jpeg",
+        "description": "Fashion apparel for all occasions"
+      },
+      {
+        "id": "electronics",
+        "name": "Electronics",
+        "image": "https://cdn.shopify.com/s/files/1/0610/2152/0088/files/electronics_store_malta_480x480.jpg",
+        "description": "Latest gadgets and tech accessories"
+      },
+      {
+        "id": "home",
+        "name": "Home & Living",
+        "image": "https://interiorshome.com/wp-content/uploads/2024/03/CH_Outlet2-scaled-e1711726442558.jpg",
+        "description": "Home decor and lifestyle products"
+      },
+      {
+        "id": "beauty",
+        "name": "Beauty & Health",
+        "image": "https://media.glamour.com/photos/5993dcda62e26f7ab4d53019/master/w_960,c_limit/sally-beauty-lede.jpg",
+        "description": "Skincare, wellness, and beauty products"
+      }
+    ],
+    "products": [
+      {
+        "id": "tshirt1",
+        "name": "Premium Cotton T-Shirt",
+        "category": "clothing",
+        "price": 19.99,
+        "description": "Ultra-soft 100% cotton t-shirt with comfort fit",
+        "image": "https://chriscross.in/cdn/shop/files/ChrisCrossRoyalBlueCottonT-Shirt.jpg",
+        "sizes": ["S", "M", "L", "XL", "XXL"],
+        "colors": ["Black", "White", "Navy", "Red", "Grey"],
+        "tags": ["tshirt", "cotton", "casual", "essentials"]
+      },
+      {
+        "id": "jeans1",
+        "name": "Slim Fit Jeans",
+        "category": "clothing",
+        "price": 49.99,
+        "description": "Classic slim fit jeans with stretch comfort",
+        "image": "https://assets.timberland.eu/images/t_img/f_auto,h_650,w_650,e_sharpen:60/dpr_2.0/v1715753956/TB0A6CQ2BQ8-ALT10/Sandown-Stretch-Slim-5pocket-Jeans-for-Men-in-Light-Blue.png",
+        "sizes": ["28", "30", "32", "34", "36", "38"],
+        "colors": ["Blue", "Black", "Light Wash"],
+        "tags": ["jeans", "denim", "pants", "casual"]
+      },
+      {
+        "id": "dress1",
+        "name": "Summer Floral Dress",
+        "category": "clothing",
+        "price": 39.99,
+        "description": "Light floral dress perfect for summer occasions",
+        "image": "https://m.media-amazon.com/images/I/61zI6nru1IL._AC_SX385_.jpg",
+        "sizes": ["XS", "S", "M", "L", "XL"],
+        "colors": ["Floral Print", "Blue Floral", "Pink Floral"],
+        "tags": ["dress", "summer", "floral", "women"]
+      },
+      {
+        "id": "headphones1",
+        "name": "Wireless Bluetooth Headphones",
+        "category": "electronics",
+        "price": 89.99,
+        "description": "High quality sound with noise cancellation, 20 hour battery life",
+        "image": "https://i5.walmartimages.com/seo/Active-Noise-Cancelling-Headphones-Microphone-Wireless-Over-Ear-Bluetooth-Headphones-Hi-Res-Audio-Deep-Bass-Memory-Foam-Cups-Quick-Charge-TV-Travel-H_26775fa5-a8f4-4637-8403-2fecff53fab2.585ecb2cbbf42c238fa5a61595fabd92.jpeg",
+        "colors": ["Black", "White", "Blue"],
+        "tags": ["headphones", "wireless", "bluetooth", "audio"]
+      },
+      {
+        "id": "phone_case1",
+        "name": "Premium Phone Case",
+        "category": "electronics",
+        "price": 24.99,
+        "description": "Durable protection for your smartphone with sleek design",
+        "image": "https://www.techadvisor.com/wp-content/uploads/2024/03/best-phone-cases.jpg",
+        "models": ["iPhone 13", "iPhone 14", "Samsung S22", "Google Pixel 7"],
+        "colors": ["Clear", "Black", "Blue", "Red"],
+        "tags": ["phone", "case", "accessories", "protection"]
+      },
+      {
+        "id": "smartwatch1",
+        "name": "Fitness Smart Watch",
+        "category": "electronics",
+        "price": 129.99,
+        "description": "Track your fitness, heart rate, sleep and receive notifications",
+        "image": "https://m.media-amazon.com/images/I/61I22cL7v+L._AC_SY300_SX300_.jpg",
+        "colors": ["Black", "Silver", "Rose Gold"],
+        "tags": ["smartwatch", "fitness", "wearable", "health"]
+      },
+      {
+        "id": "pillow1",
+        "name": "Memory Foam Pillow",
+        "category": "home",
+        "price": 45.99,
+        "description": "Ergonomic memory foam pillow for better sleep quality",
+        "image": "https://www.coyuchi.com/cdn/shop/files/Untitled-1.psdSP24_OrganicRelaxedLinenPillowCover_GROUP2.jpg",
+        "sizes": ["Standard", "Queen", "King"],
+        "tags": ["pillow", "sleep", "bedroom", "comfort"]
+      },
+      {
+        "id": "lamp1",
+        "name": "Modern LED Table Lamp",
+        "category": "home",
+        "price": 35.99,
+        "description": "Energy efficient LED lamp with adjustable brightness",
+        "image": "https://www.lightingstyles.co.uk/pics/12/pair-of-colour-changing-gaming-lights-respond-to-sound-or-music-LED.jpg",
+        "colors": ["White", "Black", "Wood Finish"],
+        "tags": ["lamp", "lighting", "decor", "furniture"]
+      },
+      {
+        "id": "blanket1",
+        "name": "Soft Throw Blanket",
+        "category": "home",
+        "price": 29.99,
+        "description": "Cozy and soft blanket for your sofa or bed",
+        "image": "https://ultimatesack.com/cdn/shop/products/1_55ceed0c-ceec-414f-9bc5-f25d58d76bb6-307523_700x700.png",
+        "sizes": ["Small", "Medium", "Large"],
+        "colors": ["Grey", "Beige", "Navy"],
+        "tags": ["blanket", "throw", "cozy", "home"]
+      },
+      {
+        "id": "skincare1",
+        "name": "Hydrating Face Serum",
+        "category": "beauty",
+        "price": 29.99,
+        "description": "Intensive hydration serum with hyaluronic acid",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-06/240610-beauty-awards-2024-skincare-winners-vl-main-b0c976.jpg",
+        "sizes": ["30ml", "50ml"],
+        "tags": ["skincare", "serum", "hydration", "face"]
+      },
+      {
+        "id": "shampoo1",
+        "name": "Revitalizing Shampoo",
+        "category": "beauty",
+        "price": 15.99,
+        "description": "Nourishing shampoo for all hair types",
+        "image": "https://olamor.in/cdn/shop/files/NewGlistenNew_1.jpg",
+        "sizes": ["250ml", "500ml"],
+        "tags": ["hair", "shampoo", "cleansing", "haircare"]
+      },
+      {
+        "id": "lipstick1",
+        "name": "Long-lasting Matte Lipstick",
+        "category": "beauty",
+        "price": 19.99,
+        "description": "Vibrant color that stays all day without drying your lips",
+        "image": "https://images.ctfassets.net/wlke2cbybljx/6Z75K7EQh8g4FfDz4TrtyZ/db8c19ba086ca39a187640400ba323b3/LIPSTICKS_X10_Square_RGB.jpg",
+        "colors": ["Red", "Pink", "Nude", "Berry"],
+        "tags": ["makeup", "lipstick", "cosmetics", "beauty"]
+      }
+    ]
+  }

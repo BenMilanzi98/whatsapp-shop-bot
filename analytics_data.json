@@ -1,0 +1,63 @@
+{
+  "interactions": [
+    {
+      "timestamp": "2025-02-21T23:09:46.048Z",
+      "userId": "system",
+      "action": "product_view",
+      "details": {
+        "productId": "tshirt1"
+      }
+    },
+    {
+      "timestamp": "2025-02-21T23:12:04.247Z",
+      "userId": "system",
+      "action": "product_view",
+      "details": {
+        "productId": "tshirt1"
+      }
+    },
+    {
+      "timestamp": "2025-02-21T23:12:50.789Z",
+      "userId": "system",
+      "action": "product_view",
+      "details": {
+        "productId": "headphones1"
+      }
+    },
+    {
+      "timestamp": "2025-02-21T23:14:23.208Z",
+      "userId": "system",
+      "action": "product_view",
+      "details": {
+        "productId": "pillow1"
+      }
+    },
+    {
+      "timestamp": "2025-02-22T00:55:10.250Z",
+      "userId": "system",
+      "action": "product_view",
+      "details": {
+        "productId": "jeans1"
+      }
+    },
+    {
+      "timestamp": "2025-02-22T00:57:08.400Z",
+      "userId": "system",
+      "action": "product_view",
+      "details": {
+        "productId": "phone_case1"
+      }
+    }
+  ],
+  "productViews": {
+    "tshirt1": 2,
+    "headphones1": 1,
+    "pillow1": 1,
+    "jeans1": 1,
+    "phone_case1": 1
+  },
+  "cartActions": {},
+  "checkouts": [],
+  "searches": [],
+  "lastUpdated": "2025-02-22T00:57:08.400Z"
+}
